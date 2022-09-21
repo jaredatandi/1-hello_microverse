@@ -1,0 +1,11 @@
+# ignore test markdown file
+test.md
+
+# ignore node modules generated
+node_modules/
+
+# ignore vim swap files
+*.swp
+
+# ignore hint report generated locally
+hint-report/
