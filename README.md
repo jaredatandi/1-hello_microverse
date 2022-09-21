@@ -11,26 +11,17 @@
 - [HTML][html]
 - [CSS][css]
 
-## Live Demo 
-
-[Live Demo Link](.)
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+No specific requirements are required for this repository.
 
 ### Setup
+A browser is required to be installed for view the contents and an Code editor to edit the code.
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Clone the repository and and use a browser to open the index.html to view the contents.
 
 ## Authors
 
